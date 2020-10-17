@@ -1,0 +1,1 @@
+body{overflow-x:hidden}.title{text-align:center}input::-moz-placeholder{color:#2e2d50}input:-ms-input-placeholder{color:#2e2d50}input::placeholder{color:#2e2d50}.error{font-size:.8rem;color:red}.auth_form{display:flex;flex-direction:column;max-width:250px;margin:auto}.auth_form>*{text-align:center;width:100%;margin-bottom:10px;box-sizing:border-box}
