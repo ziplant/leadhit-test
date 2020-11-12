@@ -15,7 +15,11 @@ const routes = [
 ];
 
 const router = createRouter({
+<<<<<<< HEAD
   history: createWebHashHistory(),
+=======
+  history: createWebHistory(),
+>>>>>>> 9165e36df18311998b24e744f9330af99c2133f1
   routes,
 });
 
